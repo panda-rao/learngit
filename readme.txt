@@ -1,11 +1,2 @@
-a11111111111111
-111112
-22222
-33333
-44444
-5555
-66666
-77777:
-wq
-:wq
-
+git is a vision contral system
+git is free software
